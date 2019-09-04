@@ -41,6 +41,7 @@ public class My {
          */
 
         int aa = 3;
+        ddd;
         System.out.println(aa = 4);
 
 
